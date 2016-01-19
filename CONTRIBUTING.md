@@ -1,8 +1,8 @@
 # Contributing
 
 If you would like to contribute, please follow the [style guide](STYLE.md).
-Issues labeled ["needs
-help"](https://github.com/ga-wdi-boston/meta/labels/needs%20help) are a good
+Issues labeled ["help
+wanted"](https://github.com/ga-wdi-boston/meta/labels/help%20wanted) are a good
 place to start!
 
 To contribute, clone this repository. If you don't have commit access: fork,
